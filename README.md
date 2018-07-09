@@ -13,7 +13,7 @@ Test Case:
 
 Input | Output
 ---|---
-[2, 9, 12, 8, 5, 7] | [81, 25, 49]
+[2, 3, 9, 12, 8, 5, 7] | [81, 25, 49]
 
 **NOTE: You are _not_ being asked to implement the array methods like we did on first lab. You are using normal, built-in array methods and combining them to achieve a specific purpose!**
 
